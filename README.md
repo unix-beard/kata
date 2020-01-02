@@ -10,7 +10,7 @@
 # kata
 > Programming routines that are practiced to various levels of mastery
 
-0. __Euclidian algorithm__
+0. __Euclidean algorithm__
    - [Link](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
 1. __Bank OCR__
